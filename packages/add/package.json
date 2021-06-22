@@ -1,6 +1,6 @@
 {
   "name": "@lerna-study/add",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "a + b",
   "main": "index.js",
   "scripts": {
