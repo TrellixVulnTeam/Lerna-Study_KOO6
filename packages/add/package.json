@@ -1,0 +1,11 @@
+{
+  "name": "@lerna-study/add",
+  "version": "1.0.0",
+  "description": "a + b",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo testing server with version: $npm_package_version"
+  },
+  "author": "linya",
+  "license": "ISC"
+}
