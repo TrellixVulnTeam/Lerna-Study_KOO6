@@ -1,2 +1,0 @@
-# Lerna-Study
-lerna practice  
