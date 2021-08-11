@@ -23,5 +23,6 @@
     "@imooc-cli/utils": "^1.1.1",
     "element": "^0.1.4",
     "vue": "^2.6.14"
-  }
+  },
+  "gitHead": "6af55c71180dca2942b3a4ce49aaeeb2c896c46f"
 }
