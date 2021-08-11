@@ -1,6 +1,6 @@
 {
   "name": "@cdt/core",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "> TODO: description",
   "author": "cdt-wsl <cdthanye32@163.com>",
   "homepage": "",
@@ -20,7 +20,7 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
-    "@cdt/utils": "^0.0.0",
+    "@cdt/utils": "^0.0.1",
     "@imooc-cli/utils": "^1.1.1",
     "element": "^0.1.4",
     "vue": "^2.6.14"
